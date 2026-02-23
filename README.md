@@ -1,2 +1,2 @@
 # Donaci-n-de-Alimentos
-Desarrollo de un sistema para la distribución eficiente y equitativa de alimentos, incorporando una interfaz de usuario interactiva que permite organizar, administrar y monitorear la entrega de recursos, garantizando transparencia y mejor control en el proceso.
+Implementación de un sistema en Java para la gestión y distribución equitativa de alimentos, aplicando estructuras de datos, modelado mediante grafos para optimización de rutas y herencia en POO para una arquitectura escalable y mantenible. Integración de interfaz interactiva para mejorar la experiencia del usuario y el control operativo del sistema.
